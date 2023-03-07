@@ -3,6 +3,8 @@
     "version":"1",
     "title":"New Update",
     "url":"https://triotion.blogspot.com",
-    "message":"Fixed minor bug"
+    "message":"Fixed minor bug",
+    "type":"download",
+    "filename":"triotionpatcher.apk"
   }
 ]
