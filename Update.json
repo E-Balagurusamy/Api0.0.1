@@ -3,8 +3,10 @@
     "version":"2",
     "title":"New Update",
     "url":"https://github.com/E-Balagurusamy/Backups/blob/main/AamonBackup.zip?raw=true",
-    "message":"Fixed minor bug",
-
-
+    "message":"Fixed minor bug /*<item name="android:windowTranslucentNavigation">true</item>*/"
   }
 ]
+
+
+ 
+
